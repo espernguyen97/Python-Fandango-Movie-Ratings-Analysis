@@ -1,1 +1,1 @@
-# Python-Fandango-Movie-Ratings-Website-Analysis
+# Python-Fandango-Movie-Ratings-Analysis
