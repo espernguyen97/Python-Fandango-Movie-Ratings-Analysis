@@ -56,7 +56,7 @@ Task 1:
 The number of movies per year.
 <br>
 <br>
-[](imgs/1.png)
+[](img/task 1.png)
 <br>
 <br>
 Task 2: 
