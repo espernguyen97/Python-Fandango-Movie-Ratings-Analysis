@@ -72,7 +72,7 @@ Task 3:
 The difference between ratings that are displayed (STARS) versus what the true rating was from votes (RATING).
 <br>
 <br>
-[](imgs/2.png)
+[](2.png)
 <br>
 <br>
 Task 4: 
@@ -80,10 +80,10 @@ Task 4:
 Fandango Ratings vs Other Sites' scores
 <br>
 <br>
-[](imgs/2.png)
+[](2.png)
 <br>
 <br>
-[](imgs/2.png)
+[](2.png)
 <br>
 <br>
 Task : 
@@ -91,7 +91,7 @@ Task :
 The number of worst movies rated across all platforms.
 <br>
 <br>
-[](imgs/2.png)
+[](2.png)
 <br>
 <br>
 Conclusion:
