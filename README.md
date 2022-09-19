@@ -64,7 +64,7 @@ Task 2:
 Top 10 movies with the highest number of votes.
 <br>
 <br>
-[](images/task.png)
+[](images/task4.png)
 <br>
 <br>
 Task 3: 
@@ -83,7 +83,7 @@ Fandango Ratings vs Other Sites' scores
 [](images/task3.png)
 <br>
 <br>
-[](images/task3..png)
+[](images/task3.1png)
 <br>
 <br>
 Task : 
