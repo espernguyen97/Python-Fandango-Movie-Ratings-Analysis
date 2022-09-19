@@ -83,10 +83,10 @@ Fandango Ratings vs Other Sites' scores
 <img src="./img/task 4.png">
 <br>
 <br>
-<img src="./img/task 3.1.png">
+<img src="./img/task 4.2.png">
 <br>
 <br>
-Task : 
+Task 5 : 
 
 The number of worst movies rated across all platforms.
 <br>
