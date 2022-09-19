@@ -80,10 +80,10 @@ Task 4:
 Fandango Ratings vs Other Sites' scores
 <br>
 <br>
-<img src="./img/task 1.png">
+<img src="./img/task 4.png">
 <br>
 <br>
-<img src="./img/task 1.png">
+<img src="./img/task 4.1.png">
 <br>
 <br>
 Task : 
