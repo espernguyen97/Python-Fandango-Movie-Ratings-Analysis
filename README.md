@@ -59,13 +59,12 @@ The number of movies per year.
  <img src="./img/task 1.png">
 </p>
 <br>
-<br>
 Task 2: 
 
 Top 10 movies with the highest number of votes.
 <br>
 <br>
-[](imgs/2.png)
+<img src="./img/task 2.png">
 <br>
 <br>
 Task 3: 
@@ -73,7 +72,7 @@ Task 3:
 The difference between ratings that are displayed (STARS) versus what the true rating was from votes (RATING).
 <br>
 <br>
-[](2.png)
+<img src="./img/task 3.png">
 <br>
 <br>
 Task 4: 
@@ -81,10 +80,10 @@ Task 4:
 Fandango Ratings vs Other Sites' scores
 <br>
 <br>
-[](2.png)
+<img src="./img/task 1.png">
 <br>
 <br>
-[](2.png)
+<img src="./img/task 1.png">
 <br>
 <br>
 Task : 
@@ -92,7 +91,7 @@ Task :
 The number of worst movies rated across all platforms.
 <br>
 <br>
-[](2.png)
+<img src="./img/task 5.png">
 <br>
 <br>
 Conclusion:
