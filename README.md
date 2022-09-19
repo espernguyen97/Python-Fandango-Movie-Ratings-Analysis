@@ -1,1 +1,1 @@
-# Python-Fandango-Movie-Ratings-Analysis
+Fandango's Movie Ratings Analysis
