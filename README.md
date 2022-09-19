@@ -60,8 +60,7 @@ The number of movies per year.
 </p>
 <br>
 Task 2: 
-
-
+<br>
 Top 10 movies with the highest number of votes.
 <br>
 <br>
@@ -96,4 +95,5 @@ The number of worst movies rated across all platforms.
 <br>
 <br>
 Conclusion:
+Clearly Fandango has an uneven distribution. We can also see that RT critics have the most uniform distribution. Fandango is showing around 3-4 star ratings for films that are clearly bad! Notice the biggest offender, Taken 3!. Fandango is displaying 4.5 stars on their site for a film with an average rating of 1.86 across the other platforms. It can be seen that Fandango is rating movies much higher than other sites, especially considering that it is then displaying a rounded up version of the rating
 
