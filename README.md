@@ -35,7 +35,7 @@ IMDB_user_vote_count | The number of user votes the film had on IMDb
 
 Determine if Fandango's ratings in 2015 had a bias towards rating movies better to sell more tickets based off the 538 article and the data
 
-3. What tasks ar given?
+3. What tasks are given?
 
 Through the data given, I'm looking for:
 
@@ -43,7 +43,7 @@ Task 1: The relationship between popularity of a film and its rating and votes.
 
 Task 2: The number of movies per year.
 
-Task 3: Top 10 mmovies with the highest number of votes.
+Task 3: Top 10 movies with the highest number of votes.
 
 Task 4:  The difference between ratings that are displayed (STARS) versus what the true rating was from votes (RATING).
 
