@@ -39,15 +39,60 @@ Determine if Fandango's ratings in 2015 had a bias towards rating movies better 
 
 Through the data given, I'm looking for:
 
-Task 1: The relationship between popularity of a film and its rating and votes.
+Task 1: The number of movies per year.
 
-Task 2: The number of movies per year.
+Task 2: Top 10 movies with the highest number of votes.
 
-Task 3: Top 10 movies with the highest number of votes.
+Task 3:  The difference between ratings that are displayed (STARS) versus what the true rating was from votes (RATING).
 
-Task 4:  The difference between ratings that are displayed (STARS) versus what the true rating was from votes (RATING).
+Task 4: Fandango Ratings vs Other Sites' scores
 
-Task 5: Fandango Ratings vs Other Sites' scores
+Task5: The number of worst movies rated across all platforms.
 
-Task 6: The number of worst movies rated across all platforms.
+<hr>
+
+Task 1: 
+
+The number of movies per year.
+<br>
+<br>
+[](images/task1.png)
+<br>
+<br>
+Task 2: 
+
+Top 10 movies with the highest number of votes.
+<br>
+<br>
+[](images/task.png)
+<br>
+<br>
+Task 3: 
+
+The difference between ratings that are displayed (STARS) versus what the true rating was from votes (RATING).
+<br>
+<br>
+[](images/task2.png)
+<br>
+<br>
+Task 4: 
+
+Fandango Ratings vs Other Sites' scores
+<br>
+<br>
+[](images/task3.png)
+<br>
+<br>
+[](images/task3..png)
+<br>
+<br>
+Task : 
+
+The number of worst movies rated across all platforms.
+<br>
+<br>
+[](images/task5.png)
+<br>
+<br>
+Conclusion:
 
